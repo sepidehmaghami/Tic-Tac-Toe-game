@@ -2,7 +2,6 @@ import pyfiglet
 import random
 import time
 
-
 title = pyfiglet.figlet_format("Tic Tac Toe", font='slant')
 print(title)
 
